@@ -1,2 +1,2 @@
-# mypetstore
-宠物商店
+# mypetstore宠物商店
+整合SpringMVC + Spring + MyBatis
